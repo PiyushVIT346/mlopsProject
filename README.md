@@ -24,3 +24,12 @@ origin  https://github.com/PiyushVIT346/mlopsProject.git (push)
 (myenv) D:\projects\mlopsProject>git push -u origin main
 create new folder setup.py and src and file __init__.py in src folder. Write the code in setup.py. 
 (myenv) D:\projects\mlopsProject>pip install -r requirements.txt
+git status
+git add .
+git commit -m "setup.py"
+git push origin main
+
+create folder components
+
+
+(myenv) D:\projects\mlopsProject>python src/logger.py
