@@ -1,0 +1,12 @@
+[ 2025-05-19 12:47:19,617 ] 27 root - INFO - Enter the Data Ingestion methods
+[ 2025-05-19 12:47:19,814 ] 30 root - INFO - Read Dataset as pandas Dataframe
+[ 2025-05-19 12:47:19,862 ] 36 root - INFO - Train test split initialized
+[ 2025-05-19 12:47:20,033 ] 44 root - INFO - Ingestion of Data is completed
+[ 2025-05-19 12:47:20,138 ] 67 root - INFO - Read train and test data completed
+[ 2025-05-19 12:47:20,138 ] 69 root - INFO - Obtaining preprocessing object
+[ 2025-05-19 12:47:20,138 ] 39 root - INFO - Numerical columns standard scaling completed
+[ 2025-05-19 12:47:20,138 ] 48 root - INFO - Categorical columns standard scaling completed
+[ 2025-05-19 12:47:20,333 ] 82 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-05-19 12:47:20,498 ] 92 root - INFO - Saved preprocessing object.
+[ 2025-05-19 12:47:20,541 ] 31 root - INFO - Splitting training and test input data
+[ 2025-05-19 12:49:05,937 ] 96 root - INFO - Best model found: Linear Regression with R2 Score: 0.8804
