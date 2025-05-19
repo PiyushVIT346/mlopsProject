@@ -33,3 +33,5 @@ create folder components
 
 
 (myenv) D:\projects\mlopsProject>python src/logger.py
+
+to run complete project : python src/components/data_ingestion.py
